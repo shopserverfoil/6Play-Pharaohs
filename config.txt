@@ -1,6 +1,6 @@
-token= NTAzNDAzNzI2MzM0MzI4ODMz.Dq1_Lw.qbESVr-7bqwZq6TOye71y6KT0ho
-owner= 503324987898200074 
-prefix= 6
-game= Type 6help
+token= NTA0NzcyMjcyODg5MDA0MDcz.DrJ5iw.YRzY06SfV4cn0WHD_kYwr3Kx-BU
+owner= 481609940952416267 
+prefix= !
+game= Type !Will💖
 stayinchannel=true 
 songinstatus=false
