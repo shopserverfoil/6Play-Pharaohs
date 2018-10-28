@@ -1,6 +1,6 @@
-token= NTA0NzcyMjcyODg5MDA0MDcz.DrJ5iw.YRzY06SfV4cn0WHD_kYwr3Kx-BU
-owner= 481609940952416267 
-prefix= !
-game= Type !Will💖
+token= NTA2MjM2NjExODE0NDkwMTIz.DrfNXQ.oigrUnd16j6GUOpmuG4Rpmj6qDw
+owner= 425769799793246208 
+prefix= #
+game= Vida server💖
 stayinchannel=true 
 songinstatus=false
